@@ -8,7 +8,12 @@
   "authors": [
     "Ikerleon02"
   ],
-
+  "contact": {
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/the-birdwatching-mod",
+  "sources": "${github_url}",
+  "issues": "${github_url}/issues"
+  },
+  "license": "CC0 1.0",
   "icon": "assets/birdwmod/logo.png",
 
   "entrypoints": {
